@@ -1,5 +1,3 @@
-package projects.ticTacToe;
-
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;
@@ -32,14 +30,12 @@ public class Game extends JFrame implements ActionListener {
     public void actionPerformed(ActionEvent e) {
         JButton clickedButton = (JButton) e.getSource();
 
-        // If the button is already clicked, ignore it
         if (!clickedButton.getText().equals("")) {
             return;
         }
 
         clickedButton.setText(currentPlayer);
 
-        // Check for a win or draw
         if (checkForWin()) {
             JOptionPane.showMessageDialog(this, "Player " + currentPlayer + " wins!");
             resetGame();
@@ -70,7 +66,6 @@ public class Game extends JFrame implements ActionListener {
     }
 
     private void resetGame() {
-        // clear all buttons
         for (JButton button : buttons) {
             button.setText("");
         }

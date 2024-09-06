@@ -1,0 +1,84 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Game",
+            "request": "launch",
+            "mainClass": "Game",
+            "projectName": "JAVA_c67c2f7b"
+        },
+        {
+            "type": "java",
+            "name": "array",
+            "request": "launch",
+            "mainClass": "array",
+            "projectName": "JAVA_c67c2f7b"
+        },
+        {
+            "type": "java",
+            "name": "guess",
+            "request": "launch",
+            "mainClass": "guess",
+            "projectName": "JAVA_c67c2f7b"
+        },
+        {
+            "type": "java",
+            "name": "hello",
+            "request": "launch",
+            "mainClass": "hello",
+            "projectName": "JAVA_c67c2f7b"
+        },
+        {
+            "type": "java",
+            "name": "inputs",
+            "request": "launch",
+            "mainClass": "inputs",
+            "projectName": "JAVA_c67c2f7b"
+        },
+        {
+            "type": "java",
+            "name": "match",
+            "request": "launch",
+            "mainClass": "match",
+            "projectName": "JAVA_c67c2f7b"
+        },
+        {
+            "type": "java",
+            "name": "methods",
+            "request": "launch",
+            "mainClass": "methods",
+            "projectName": "JAVA_c67c2f7b"
+        },
+        {
+            "type": "java",
+            "name": "calc",
+            "request": "launch",
+            "mainClass": "projects.calculator.calc",
+            "projectName": "JAVA_c67c2f7b"
+        },
+        {
+            "type": "java",
+            "name": "WordCounterGUI",
+            "request": "launch",
+            "mainClass": "projects.counter.WordCounterGUI",
+            "projectName": "JAVA_c67c2f7b"
+        },
+        {
+            "type": "java",
+            "name": "whileGuess",
+            "request": "launch",
+            "mainClass": "whileGuess",
+            "projectName": "JAVA_c67c2f7b"
+        }
+    ]
+}
