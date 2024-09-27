@@ -3,9 +3,9 @@ package projects.calculator;
 import java.awt.*;
 import java.awt.event.*;
 
+
 // extending frame class to our class calc   
 public class calc extends Frame implements ActionListener {
-
     TextField display; // text field to display the result
     String num1, num2, operator; // variables to hold numbers and operations
 
@@ -223,7 +223,7 @@ public class calc extends Frame implements ActionListener {
         }
     }
 
-    public static void main(String[] args) {
+    public static void main() {
         new calc();
     }
 }
