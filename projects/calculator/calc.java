@@ -1,5 +1,3 @@
-package projects.calculator;
-
 import java.awt.*;
 import java.awt.event.*;
 
