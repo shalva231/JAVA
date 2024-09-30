@@ -1,3 +1,8 @@
+package projects.calculator;
+
+// java -cp bin projects.calculator.calc
+
+
 import java.awt.*;
 import java.awt.event.*;
 

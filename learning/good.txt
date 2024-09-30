@@ -1,0 +1,5 @@
+create
+javac -d bin folder/folder/file
+
+run
+java -cp bin forlder/folder/file

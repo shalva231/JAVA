@@ -1,5 +1,7 @@
 package projects.TextBasedGame;
 
+//  java -cp bin projects.TextBasedGame.TextBasedGame
+
 
 import java.awt.*; 
 import java.awt.event.*; 

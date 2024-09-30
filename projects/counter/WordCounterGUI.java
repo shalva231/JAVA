@@ -1,5 +1,8 @@
 package projects.counter;
 
+//  java -cp bin projects.counter.WordCounterGUI
+
+
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;

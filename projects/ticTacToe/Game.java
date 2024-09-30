@@ -1,3 +1,9 @@
+package projects.ticTacToe;
+
+// java -cp bin projects.ticTacToe.Game
+
+
+
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;

@@ -1,5 +1,6 @@
 package projects.counter;
 
+
 public class counter {
 
     // Method to count words in a given text
